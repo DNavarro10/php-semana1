@@ -8,9 +8,11 @@
 </head>
 
 <body>
-	<header>
-		<h1>Curso de PHP - Semana 1</h1>
-	</header>
+	<div class="titulo">
+		<header>
+			<h1>Curso de PHP - Semana 1</h1>
+		</header>
+	</div>
 	<div class="main">
 		<div class="php">
 			<?php
@@ -28,11 +30,11 @@
 
 	</div>
 	<footer>
-		<Div>
+		<div>
 			<p>
 				Diego Navarro - PHP 2017
 			</p>
-		</Div>
+		</div>
 	</footer>
 </body>
 
